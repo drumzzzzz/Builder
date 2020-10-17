@@ -208,7 +208,7 @@ public:
 
 	void BuildEngine() override
 	{
-		_customtruck->SetEngine("V4 2.3L Diesel 90hp");
+		_customtruck->SetEngine("I4 2.3L Diesel 90hp");
 	}
 
 	void BuildWheels() override

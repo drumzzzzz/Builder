@@ -92,7 +92,7 @@ public:
 	{
 		_customtruck->SetDescription(
 			"A backwoods bustin' quad cab with dual smokestacks and twin flag holders good for\n"
-			"\t\tbringing 'tears to the eyes' of those against your environmental and political beliefs.");
+			"\t\t\tbringing 'tears to the eyes' of those against your environmental and political beliefs.");
 	}
 
 	void BuildEngine() override
@@ -128,8 +128,8 @@ public:
 	{
 		_customtruck->SetDescription(
 			"A street pavement scrapin' extended cab that's dropped for urban cruising and\n"
-			"\t\tavoiding speed bumps. Complete with a 5000 watt bass system to let everyone know\n"
-			"\t\tyour coming from 10 miles away.");
+			"\t\t\tavoiding speed bumps. Complete with a 5000 watt bass system to let everyone know\n"
+			"\t\t\tyour coming from 10 miles away.");
 	}
 
 	void BuildEngine() override
@@ -165,7 +165,7 @@ public:
 	{
 		_customtruck->SetDescription(
 			"A city hotroddin' very fast single cab good for sucking points off your license\n"
-			"\t\tfaster than that Vette you schooled back at that stop light.");
+			"\t\t\tfaster than that Vette you schooled back at that stop light.");
 	}
 
 	void BuildEngine() override
@@ -201,9 +201,9 @@ public:
 	{
 		_customtruck->SetDescription(
 			"A single cab special for that person who enjoys expressing their views to everyone.\n"
-			"\t\tComplete with an extra sized camper shell, tailgate and bumpers for covering with\n"
-			"\t\tdecals that express your multitudes of opinions and beliefs. Extra underpowered and slow\n"
-			"\t\tso whomever's stuck behind you in traffic has ample time to read your conspiracies.");
+			"\t\t\tComplete with an extra sized camper shell, tailgate and bumpers for covering with\n"
+			"\t\t\tdecals that express your multitudes of opinions and beliefs. Extra underpowered and slow\n"
+			"\t\t\tso whomever's stuck behind you in traffic has ample time to read your conspiracies.");
 	}
 
 	void BuildEngine() override

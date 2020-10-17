@@ -8,8 +8,8 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 
-Builder design pattern project for UWGB Computer Science Fall semester, 2020
-Creates builder constructed class objects of custom truck instances
+Builder design pattern project for UWGB Computer Science Fall semester, 2020.
+Creates builder constructed class objects of custom truck instances.
 
 
 MAINTAINERS

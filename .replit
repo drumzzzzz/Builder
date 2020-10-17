@@ -1,0 +1,1 @@
+run="clang++-7 -pthread -std=c++17 ./Builder/main.cpp -o ./Builder/Builder.exe && ./Builder/Builder.exe"
